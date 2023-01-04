@@ -7,7 +7,7 @@ So, this bot evangelically heads to r/Cricket and gently nudges those who mentio
 
 The dream, comrades, is of a fairer method of toss-making. There are a few theories floating around on this subject. One of the goals of this botmonger is to build a predictive model for providing a cricket captain with a possible 'bid' for the toss in penalty runs. A bigger project, for another day.
 
-Yours,
+Yours,lllll
 
 Joe Molloy - Sale CC 2nd XI wicketkeeper and opening bat
   
