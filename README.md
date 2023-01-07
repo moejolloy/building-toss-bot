@@ -1,5 +1,5 @@
 # building-toss-bot
-There is plenty of recent evidence supporting the theory that, in cricket, in many situations, winning the toss gives the toss-winning team a significant statistical advantage. 
+There is plenty of recent evidence supporting the theory that, in cricket, in many situations, most prevalently in the UAE or subcontinent where dew is a factor in the second innings, winning the toss gives the toss-winning team a significant statistical advantage. 
 
 Many great games are a balance between luck and skill. This evidence shows that the toss has, in some circumstances, tipped the balance too far towards luck for this bot-maker's liking.
 
